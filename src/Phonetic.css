@@ -1,11 +1,12 @@
 .Phonetic {
-  height: 60px;
+  display: inline-flex;
+  margin: 10px auto;
 }
 .Phonetic a {
   font-size: 15px;
   color: #9671f4;
   border: 1px solid #9671f4;
-  padding: 12px 20px;
+  padding: 5px 10px;
   border-radius: 20px;
   text-decoration: none;
 }
@@ -16,5 +17,8 @@
 }
 
 .Phonetic .text {
-  opacity: 0.7;
+  font-size: 18px;
+  opacity: 0.6;
+  margin-left: 15px;
+  margin-top: 2px;
 }
