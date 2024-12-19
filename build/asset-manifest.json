@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5933e143.css",
+    "main.js": "/static/js/main.22c0215c.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/shecodes.png": "/static/media/shecodes.e74c4233cc24a15fa25b.png",
+    "index.html": "/index.html",
+    "main.5933e143.css.map": "/static/css/main.5933e143.css.map",
+    "main.22c0215c.js.map": "/static/js/main.22c0215c.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5933e143.css",
+    "static/js/main.22c0215c.js"
+  ]
+}
