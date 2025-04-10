@@ -37,7 +37,7 @@ section input {
 }
 
 @media (max-width: 900) {
-  .Dictionary {
+  .Dictionary .photos {
     max-width: 350px;
   }
 }
