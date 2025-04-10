@@ -35,3 +35,9 @@ section input {
   font-size: 12px;
   font-weight: 100;
 }
+
+@media (max-width: 900) {
+  .Dictionary {
+    max-width: 350px;
+  }
+}
