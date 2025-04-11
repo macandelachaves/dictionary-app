@@ -24,7 +24,7 @@ footer a {
   color: #9771f4;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   .App {
     max-width: 100%;
     margin: 0px auto;
